@@ -11,7 +11,7 @@ I'm a **junior iOS developer** passionate about mobile app development. My focus
 I'm currently working on mastering the **Coordinator pattern**, understanding **Clean Architecture**, and improving my overall project structuring skills.
 
 ### 📌 Projects  
-🔹 [CoffeeShop](https://github.com/your-repository) – A simple iOS app for ordering drinks with authentication via Firebase, built using the **Coordinator pattern**.  
+🔹 [CoffeeShop](https://github.com/LukasSkrivanek/CoffeShopProject) – A simple iOS app for ordering drinks with authentication via Firebase, built using the **Coordinator pattern**.  
 🔹 [SportPerformance](https://github.com/your-repository) – iOS app for tracking sports performance (SwiftUI, Firebase).  
 
 ### 📫 Contact  
