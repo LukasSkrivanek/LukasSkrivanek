@@ -1,12 +1,11 @@
 ## 👋 Hi, I'm Lukas!
 
-I'm a **junior iOS developer** passionate about mobile app development. My focus is on **Swift, SwiftUI, UIKit, and Kotlin Multiplatform**. I'm eager to learn new technologies and experiment with modern app development approaches.
+I'm a **junior iOS developer** passionate about mobile app development. My focus is on **Swift, SwiftUIm**. I'm eager to learn new technologies and experiment with modern app development approaches.
 
 ### 🔧 Technologies & Tools
-- **Programming Languages:** Swift, Kotlin, TypeScript  
-- **Frameworks & Libraries:** SwiftUI, UIKit, KMP, Next.js, Tailwind CSS  
-- **Backend:** Firebase, Ktor, Prisma  
-- **Other Tools:** Xcode, Git, GitHub, CI/CD  
+- **Programming Languages:** Swift, TypeScript  
+- **Frameworks & Libraries:** SwiftUI, UIKit, , Next.js, Tailwind CSS  
+- **Other Tools:** Xcode, Git, GitHub
 
 ### 🚀 Current Focus  
 I'm currently working on mastering the **Coordinator pattern**, understanding **Clean Architecture**, and improving my overall project structuring skills.
