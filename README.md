@@ -22,4 +22,4 @@ I'm currently working on mastering the **Coordinator pattern**, understanding **
 
 💡 **Currently learning:** Advanced Swift concepts, multiplatform development, and CI/CD for mobile apps. Always open to collaborating on open-source projects!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukasSkrivanekshow_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukasSkrivanek&show_icons=true&theme=radical)
