@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Lukas!
 
-I'm a **junior iOS developer** passionate about mobile app development. My focus is on **Swift, SwiftUIm**. I'm eager to learn new technologies and experiment with modern app development approaches.
+I'm a **junior iOS developer** passionate about mobile app development. My focus is on **Swift, SwiftUI**. I'm eager to learn new technologies and experiment with modern app development approaches.
 
 ### 🔧 Technologies & Tools
 - **Programming Languages:** Swift, TypeScript  
@@ -15,8 +15,8 @@ I'm currently working on mastering the **Coordinator pattern**, understanding **
 🔹 [SportPerformance](https://github.com/your-repository) – iOS app for tracking sports performance (SwiftUI, Firebase).  
 
 ### 📫 Contact  
-📧 **Email:** your@email.com  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+📧 **Email:** luky.skrivos@gmail.com 
+🔗 **LinkedIn:** https://www.linkedin.com/in/lukáš-skřivánek-734a6a202/
 
 ---
 
