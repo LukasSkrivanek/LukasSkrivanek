@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Lukas!
 
-I'm a **junior iOS developer** passionate about mobile app development. My focus is on **Swift, SwiftUI**. I'm eager to learn new technologies and experiment with modern app development approaches.
+I'm a **iOS developer** passionate about mobile app development. My focus is on **Swift, SwiftUI**. I'm eager to learn new technologies and experiment with modern app development approaches.
 
 ### 🔧 Technologies & Tools
 - **Programming Languages:** Swift, TypeScript  
