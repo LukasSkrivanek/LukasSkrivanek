@@ -11,7 +11,6 @@ I'm a **iOS developer** passionate about mobile app development. My focus is on 
 I'm currently working on mastering the **TCA**,  **Clean Architecture**, and improving my overall project structuring skills and clean code.
 
 ### 📌 Projects  
-
 🔹 CoffeeShop
 Description: A simple iOS app for ordering drinks.
 Architecture: Coordinator pattern – centralized navigation keeps view controllers clean.
