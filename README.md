@@ -11,23 +11,32 @@ I'm a **iOS developer** passionate about mobile app development. My focus is on 
 I'm currently working on mastering the **TCA**,  **Clean Architecture**, and improving my overall project structuring skills and clean code.
 
 ### 📌 Projects  
-🔹 CoffeeShop
-Description: A simple iOS app for ordering drinks.
-Architecture: Coordinator pattern – centralized navigation keeps view controllers clean.
-Technologies:
-Firebase – authentication
-Dependencies & Core framework – modular architecture
-Unit tests – fast, runnable without a simulator
-Advantage: Optimized for fast builds and CI/CD workflows.
-🔹 AI Chat
-Description: A standalone iOS application focused on AI chat functionality.
-Current work: Being rewritten into TCA (The Composable Architecture)
-Goals of migration:
-Predictable state management
-Better testability
-Improved modularity and scalability
-🔹 SportPerformance
-Description: An iOS app for tracking sports performance using SwiftUI and Firebase.
+
+🔹 **[CoffeeShop](https://github.com/LukasSkrivanek/CoffeShopProject)**  
+**Description:** A simple iOS app for ordering drinks.  
+**Architecture:** Coordinator pattern – centralized navigation keeps view controllers clean.  
+**Technologies:**  
+- Firebase – authentication  
+- Dependencies & Core framework – modular architecture  
+- Unit tests – fast, runnable without a simulator  
+
+**Advantage:** Optimized for fast builds and CI/CD workflows.  
+
+<br>
+
+🔹 **[AI Chat](https://github.com/LukasSkrivanek/AIChat)**  
+**Description:** A standalone iOS application focused on AI chat functionality.  
+**Current work:** Being rewritten into **TCA (The Composable Architecture)**  
+
+**Goals of migration:**  
+- Predictable state management  
+- Better testability  
+- Improved modularity and scalability  
+
+<br>
+
+🔹 **[SportPerformance](https://github.com/your-repository)**  
+**Description:** An iOS app for tracking sports performance using SwiftUI and Firebase.  
 
 ### 📫 Contact  
 📧 **Email:** luky.skrivos@gmail.com 
