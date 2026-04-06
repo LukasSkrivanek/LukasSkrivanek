@@ -3,17 +3,31 @@
 I'm a **iOS developer** passionate about mobile app development. My focus is on **Swift, SwiftUI**. I'm eager to learn new technologies and experiment with modern app development approaches.
 
 ### 🔧 Technologies & Tools
-- **Programming Languages:** Swift, TypeScript  
-- **Frameworks & Libraries:** SwiftUI, UIKit, , Next.js, Tailwind CSS  
-- **Other Tools:** Xcode, Git, GitHub
+- **Programming Languages:** Swift, TypeScript, Kotlin
+- **Frameworks & Libraries:** SwiftUI, UIKit, TCA, Next.js, Tailwind CSS  
+- **Other Tools:** Xcode, Git, CI/CD, Claude Code, Firebase
 
 ### 🚀 Current Focus  
-I'm currently working on mastering the **Coordinator pattern**,  **Clean Architecture**, and improving my overall project structuring skills.
+I'm currently working on mastering the **TCA**,  **Clean Architecture**, and improving my overall project structuring skills and clean code.
 
 ### 📌 Projects  
 
-🔹 [CoffeeShop](https://github.com/LukasSkrivanek/CoffeShopProject) – A simple iOS app for ordering drinks with authentication via Firebase, built using the **Coordinator pattern**.  
-🔹 [SportPerformance](https://github.com/your-repository) – iOS app for tracking sports performance (SwiftUI, Firebase).  
+🔹 [CoffeeShop](https://github.com/LukasSkrivanek/CoffeShopProject) 
+  Description: A simple iOS app for ordering drinks.
+  Architecture: Coordinator pattern – centralized navigation keeps view controllers clean.
+  Technologies:
+    Firebase – authentication
+    Dependencies & Core framework – modular architecture
+    Unit tests – fast, runnable without a simulator
+  Advantage: Optimized for fast builds and CI/CD workflows.
+🔹 [AiChat]([https://github.com/your-repository](https://github.com/LukasSkrivanek/AIChat)) 
+  Description: A standalone iOS application focused on AI chat functionality.
+  Current work: Being rewritten into TCA (The Composable Architecture)
+    Goals of migration:
+            predictable state management
+            better testability
+🔹 [SportPerformance](https://github.com/your-repository) 
+  Description: app for tracking sports performance (SwiftUI, Firebase).
 
 ### 📫 Contact  
 📧 **Email:** luky.skrivos@gmail.com 
