@@ -24,7 +24,7 @@ I'm currently working on mastering the **TCA**,  **Clean Architecture**, and imp
 
 <br>
 
-🔹 **[AI Chat](https://github.com/LukasSkrivanek/AIChat)** 
+🔹 **[AI Chat](https://github.com/LukasSkrivanek/AIChat)**   
 [working]
 **Description:** A standalone iOS application focused on AI chat functionality.  
 **Current work:** Being rewritten into **TCA (The Composable Architecture)**  
@@ -36,7 +36,7 @@ I'm currently working on mastering the **TCA**,  **Clean Architecture**, and imp
 
 <br>
 
-🔹 **[Jokes](https://github.com/LukasSkrivanek/Jokes)**
+🔹 **[Jokes](https://github.com/LukasSkrivanek/Jokes)**  
 [working]
 **Description:** An iOS app for browsing, scratching and swiping through joke categories.
 **Architecture:** Coordinator pattern with EventEmitting – child coordinators communicate with parents via Combine publishers, keeping navigation fully decoupled.
