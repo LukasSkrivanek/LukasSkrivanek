@@ -42,6 +42,7 @@ I'm currently working on mastering the **TCA**,  **Clean Architecture**, and imp
   - UIKit – Categories screen built with `UICollectionView` and `DiffableDataSource`
   - SwiftUI – Swiping screen with drag gestures and scratch-card reveal effect
   - Combine – event-driven coordinator communication
+  -  Dependencies (Point-Free) – compile-safe dependency injection, mockable in tests and previews
 
   **Advantage:** Demonstrates hybrid UIKit + SwiftUI architecture in a single project with clean separation of navigation and UI logic.
 
