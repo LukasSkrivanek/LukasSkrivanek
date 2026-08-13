@@ -8,7 +8,7 @@ I'm a **iOS developer** passionate about mobile app development. My focus is on 
 - **Other Tools:** Xcode, Git, CI/CD, Claude Code, Firebase
 
 ### 🚀 Current Focus  
-I'm currently working on mastering the **TCA**,  **Clean Architecture**, and improving my overall project structuring skills and clean code.
+I'm currently working on mastering the **TCA**,  **Clean Architecture**,  **KMP** and improving my overall project structuring skills and clean code.
 
 ### 📌 Projects  
 
