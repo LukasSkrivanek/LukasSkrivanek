@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Lukas!
 
-I'm a **iOS developer** passionate about mobile app development. My focus is on **Swift, SwiftUI, Kotlin**. I'm eager to learn new technologies and experiment with modern app development approaches.
+iOS / Mobile Developer focused on Swift, SwiftUI and Kotlin Multiplatform. I work on production mobile applications and I'm interested in scalable architecture, TCA, modern Swift Concurrency and shared KMP codebases..
 
 ### 🔧 Technologies & Tools
 - **Programming Languages:** Swift, TypeScript, Kotlin
